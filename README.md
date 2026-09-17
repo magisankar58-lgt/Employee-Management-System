@@ -70,6 +70,25 @@ The system follows the basic **CRUD** operations:
 | Update    | Modify employee information |
 | Delete    | Remove an employee          |
 
+## Screenshots
+
+### Employee List
+
+![Employee List](Screenshots/employee-list.png)
+
+### Create Employee
+
+![Create Employee](Screenshots/create-employee.png)
+
+### Edit Employee
+
+![Edit Employee](Screenshots/edit-employee.png)
+
+### Employee Details
+
+![Employee Details](Screenshots/employee-details.png)
+
+
 ## Database
 
 The application uses **SQL Server** as the database and **Entity Framework Core** for database interaction.
